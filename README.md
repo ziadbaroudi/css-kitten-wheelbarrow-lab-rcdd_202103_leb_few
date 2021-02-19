@@ -21,5 +21,3 @@ Oh no! All of our kittens have escaped from the wheelbarrow. Help collect all th
 
 1. Open index.html in the browser. (For students using the Learn IDE, [use these instructions](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide) on how to view HTML pages in the browser.)
 2. Use the comments in **css/place-kitty.css** to write the correct selectors to move each kitty into the wheelbarrow.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/css-kitten-wheelbarrow' title='CSS Kitten Wheelbarrow'>CSS Kitten Wheelbarrow</a> on Learn.co and start learning to code for free.</p>
